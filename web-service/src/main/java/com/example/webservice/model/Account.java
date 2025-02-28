@@ -16,7 +16,7 @@ public class Account {
     private String name;
     private String email;
 
-    // Getters and setters for all fields
+    
     public Long getId() {
         return id;
     }
